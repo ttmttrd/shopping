@@ -13,7 +13,5 @@ public interface ShoppingController {
 
 	public boolean modifyUser(User user);
 
-	public boolean centification(String id, String key, Timestamp time);
-
 	public boolean checkCentification(String id, String key, Timestamp time);
 }
