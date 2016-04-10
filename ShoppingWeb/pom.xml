@@ -17,8 +17,8 @@
     
     <dependency>
     <groupId>com.englishtown.vertx</groupId>
-    <artifactId>vertx-httpservlet-parent</artifactId>
-    <version>2.0.0</version>
+    <artifactId>vertx-httpservlet</artifactId>
+    <version>2.1.0</version>
 </dependency>
 
   </dependencies>
