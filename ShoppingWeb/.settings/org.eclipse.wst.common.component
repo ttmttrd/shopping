@@ -7,6 +7,9 @@
         <dependent-module archiveName="ShoppingDomain-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/ShoppingDomain/ShoppingDomain">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="ShoppingService-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/ShoppingService/ShoppingService">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="ShoppingEntity-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/ShoppingEntity/ShoppingEntity">
             <dependency-type>uses</dependency-type>
         </dependent-module>
